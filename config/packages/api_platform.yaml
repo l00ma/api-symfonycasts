@@ -7,6 +7,7 @@ api_platform:
         jsonld: ['application/ld+json']
         jsonopenapi: ['application/vnd.openapi+json']
         html: ['text/html']
+    show_webby: false
     defaults:
         stateless: true
         cache_headers:
